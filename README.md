@@ -1,4 +1,4 @@
-Curso de HTML5 e Css3 do CursoemVideo - Professor Gustavo Guanabara
+Curso de HTML5 e CSS3 do CursoemVideo - Professor Gustavo Guanabara
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
